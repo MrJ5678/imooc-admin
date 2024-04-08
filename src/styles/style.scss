@@ -1,0 +1,10 @@
+.el-avatar {
+  --el-avatar-background-color: none;
+}
+
+.el-dropdown__popper {
+  .el-dropdown-menu {
+    .el-dropdown-menu__item:not(.is-disabled):hover {
+    }
+  }
+}
